@@ -1,0 +1,15 @@
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\bin\Debug\uygulamaiste.exe.config
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\bin\Debug\uygulamaiste.exe
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\bin\Debug\uygulamaiste.pdb
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Form1.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Properties.Resources.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.csproj.GenerateResource.cache
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.exe
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.pdb
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Form2.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Form3.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Form4.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Form5.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.Form6.resources
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.csproj.AssemblyReference.cache
+C:\Users\hdag\source\repos\uygulamaiste\uygulamaiste\obj\Debug\uygulamaiste.csproj.CoreCompileInputs.cache
